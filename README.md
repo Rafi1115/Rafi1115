@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafi
-- 👀 I’m interested in build Web Application and ML
+- 👀 I’m interested in build Web Application
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on open souce or none open source
+- 💞️ I’m looking to collaborate on open souce or close source
 - 📫 How to reach me email(rafik5565gmail.com)|twitter(@h__rafi)
 
 <!---
