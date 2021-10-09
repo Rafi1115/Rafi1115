@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafi
+- 👋 Hi there
 - 👀 I’m interested in build Web Application
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open souce or close source
