@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 👀 I’m interested in build Web Application
+- 👀 I’m interested in building Web Application
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open souce or close source
 - 📫 How to reach me email(`rafik5565gmail.com`)|twitter(`@h__rafi`)
