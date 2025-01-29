@@ -43,9 +43,8 @@ Professional developer specializing in Django applications, AI automation tools,
 - Technical consulting
 
 ## Get in Touch
-- 📧 [Your Email]
-- 💼 [LinkedIn Profile]
-- 🌐 [Portfolio Website if any]
+- 📧 [rafik5565@gmail.com]
+- 💼 [https://www.linkedin.com/in/h-rafi/]
 
 ## Work Approach
 I believe in delivering value before expecting payment. Happy to demonstrate solutions and discuss how I can help with your specific needs.
