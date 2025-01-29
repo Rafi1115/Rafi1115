@@ -41,6 +41,14 @@ Professional developer specializing in Django applications, AI automation tools,
 - System optimization
 - Bug fixes and feature implementation
 - Technical consulting
+  
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Rafi1115&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rafi1115&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi1115&theme=dark&hide_border=false&layout=compact)
 
 ## Get in Touch
 - 📧 [rafik5565@gmail.com]
