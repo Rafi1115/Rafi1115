@@ -3,14 +3,14 @@
 ## About Me
 Professional developer specializing in Django applications, AI automation tools, and containerized deployments. Passionate about creating efficient, scalable solutions that solve real business problems.
 
-## Core Technologies
+## 🛠️ Tech Stack
 - **Backend**: Python, Django, Django REST Framework
 - **DevOps**: Docker, Container Orchestration
 - **Databases**: PostgreSQL, MySQL
 - **AI/Automation**: Content Generation, Workflow Automation
 - **Integration**: WordPress API, Blogger API
-- **Version Control**: Git
-
+- **Version Control**: Git, CI/CD, Redis
+  
 ## Key Projects
 
 ### 🏥 Hospital Management System
@@ -42,14 +42,6 @@ Professional developer specializing in Django applications, AI automation tools,
 - Bug fixes and feature implementation
 - Technical consulting
   
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Rafi1115&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rafi1115&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi1115&theme=dark&hide_border=false&layout=compact)
-
 ## Get in Touch
 - 📧 [rafik5565@gmail.com]
 - 💼 [https://www.linkedin.com/in/h-rafi/]
