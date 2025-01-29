@@ -1,4 +1,4 @@
-# Python/Django Developer | AI Automation & Docker Expert 🚀
+# Python/Django Developer Expert 🚀
 
 ## About Me
 Professional developer specializing in Django applications, AI automation tools, and containerized deployments. Passionate about creating efficient, scalable solutions that solve real business problems.
